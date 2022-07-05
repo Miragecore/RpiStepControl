@@ -3,7 +3,7 @@
     import StatusButton from './StatusButton.svelte';
 
     //const socket = new WebSocket('ws://7304-2001-2d8-e135-f0d6-dcff-1cb0-80ad-623a.ngrok.io');
-    const socket = new WebSocket('ws://localhost:8000/ws');
+    const socket = new WebSocket('ws://192.168.14.145:8000/ws');
     //const socket = new WebSocket('ws://f62f-61-32-22-132.jp.ngrok.io:8000/ws');
     let recv = {};
 
