@@ -1,7 +1,7 @@
 <script>
 	export let status;
     
-    let opTexts = ["가 동 중", "비 가 동"]
+    let opTexts = ["비 가 동", "가 동 중"]
     let opText;
     let btnClass;
     $: if(status == 1){
