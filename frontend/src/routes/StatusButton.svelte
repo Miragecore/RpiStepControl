@@ -20,7 +20,7 @@
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-size: 16px;
+        font-size: 24px;
         margin: 4px 2px;
         width: 90%;
         height: 90%;

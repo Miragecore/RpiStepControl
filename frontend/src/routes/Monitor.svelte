@@ -59,6 +59,7 @@
         vertical-align: center;
         height: 30px;
         border-bottom: 1px solid #ddd;
+        font-size: 24px;
     }
 
     table {
