@@ -4,7 +4,7 @@
     let opTexts = ["가 동 중", "비 가 동"]
     let opText;
     let btnClass;
-    $: if(status == 0){
+    $: if(status == 1){
         btnClass = 'button button2'
         opText = opTexts[status];
     }else {
