@@ -5,6 +5,7 @@ import Wild from './routes/Wild.svelte'
 import About from './routes/About.svelte'
 import Movie from './routes/Movie.svelte'
 import StepParam from './routes/StepParam.svelte'
+import Monitor from './routes/Monitor.svelte'
 
 import NotFound from './routes/NotFound.svelte'
 import { params } from 'svelte-spa-router'
@@ -14,6 +15,7 @@ import { params } from 'svelte-spa-router'
 export default {
     // Exact path
     '/': Home,
+    '/Monitor': Monitor,
 
     // Using named parameters, with last being optional
     '/hello/:first/:last?': Name,

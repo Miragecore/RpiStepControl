@@ -7,6 +7,12 @@
     			Home
 		</button>
 	</a>
+	<a href="#/Monitor">
+		<button class="favorite styled"
+        		type="button">
+    			Monitor
+		</button>
+	</a>
 	<a href="#/param">
 		<button class="favorite styled"
         		type="button">

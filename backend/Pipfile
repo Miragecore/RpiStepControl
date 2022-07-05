@@ -8,6 +8,10 @@ jinja2 = "*"
 aiofiles = "*"
 fastapi = "*"
 uvicorn = "*"
+websockets = "*"
+asyncio = "*"
+requests = "*"
+pigpio = "*"
 
 [dev-packages]
 
