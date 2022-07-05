@@ -41,6 +41,7 @@
     td {
         border-bottom: 1px solid #ddd;
         height: 40px;
+        font-size: 36px;
     }
 
     tr:hover {
@@ -48,7 +49,7 @@
     }
 
     tr {
-        height: 30px;
+        height: 40px;
         vertical-align: center;
         text-align: center;
     }
@@ -59,7 +60,7 @@
         vertical-align: center;
         height: 30px;
         border-bottom: 1px solid #ddd;
-        font-size: 24px;
+        font-size: 36px;
     }
 
     table {
